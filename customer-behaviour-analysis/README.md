@@ -1,18 +1,19 @@
-Customer Segmentation and Behaviour Analysis
-Project Overview
+# Customer Segmentation and Behaviour Analysis                                
+## Project Overview                                                        
 This project focuses on analyzing customer purchasing behavior and segmenting customers based on transactional data. Key objectives include identifying trends by time, week, and month, as well as creating actionable customer segments for business intelligence insights.
 
-Dataset
+## Dataset
 The dataset consists of:
 
 Columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 Preprocessing: Rows with missing Description values were removed, as they provide little value for product-based analysis.
 
-Steps Performed
-1. Data Preprocessing
+## Steps Performed
+### 1. Data Preprocessing
 Extracted Hour, Weekday, and Month columns from InvoiceDate for temporal analysis.
 Filtered and cleaned the dataset to ensure quality.
-2. Feature Engineering
+
+### 2. Feature Engineering
 Created the Segment column based on RFM (Recency, Frequency, Monetary) analysis:
 Best Customers
 Loyal Customers
@@ -21,7 +22,7 @@ Churned Customers
 Big Spenders
 Other
 
-3. Visualizations and Analysis
+### 3. Visualizations and Analysis
 a. Customer Segment Distribution
 
 Insight:
@@ -59,7 +60,7 @@ Insight:
 At Risk and Loyal Customers dominate the weekly distribution.
 Transaction activity is consistent from Monday to Thursday, with a drop on weekends.
 
-Key Insights
+### Key Insights
 Temporal Analysis:
 
 Peak shopping hours: 11 AM - 3 PM.
