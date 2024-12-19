@@ -1,4 +1,8 @@
+PowerBI Dashboard 
+![image](https://github.com/user-attachments/assets/0ee6fdff-3fbb-46e4-8800-a59c469a044e)
+
 # Customer Segmentation and Behaviour Analysis                                
+
 ## Project Overview                                                        
 This project focuses on analyzing customer purchasing behavior and segmenting customers based on transactional data. Key objectives include identifying trends by time, week, and month, as well as creating actionable customer segments for business intelligence insights.
 
