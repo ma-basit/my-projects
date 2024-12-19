@@ -56,7 +56,7 @@ Saturday shows the least activity, possibly indicating a shift toward weekdays f
 
 #### f. Weekly Distribution by Customer Segment
 
-## Insight:
+Insight:
 At Risk and Loyal Customers dominate the weekly distribution.
 Transaction activity is consistent from Monday to Thursday, with a drop on weekends.
 
