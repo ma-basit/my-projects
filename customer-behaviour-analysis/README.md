@@ -1,5 +1,6 @@
 PowerBI Dashboard 
-![image](https://github.com/user-attachments/assets/0ee6fdff-3fbb-46e4-8800-a59c469a044e)
+![image](https://github.com/user-attachments/assets/376d29a7-41e6-48bc-919b-052d30251986)
+
 
 # Customer Segmentation and Behaviour Analysis                                
 
